@@ -1,0 +1,115 @@
+{
+    "fashions": [
+            {    
+                "id": 0,
+                "fashionId": 0, 
+                "name": "Gray Blazer",
+                "image": "assets/images/1.jpg",
+                "featured": false,
+                "description": "Cost: 86$ Material:Cotton,Polyester Gender:Unisex Kids Boys Girls Pattern Type:Plaid Collar:Turn-down Collar Sleeve Style:Long Sleeve Outerwear Type:Blazer Coat."
+            },
+            {
+              "id": 1,
+              "fashionId": 0,
+              "name": "Fancy Dress",
+              "image": "assets/images/2.jpg",
+              "description": "Cost: 141$ Material:Polyester Gender:Girls child Style:Princess Prom Type:Fancy Dress."
+            },
+            {
+                "id": 2,
+                "fashionId": 0,
+                "name": "Men Street Style",
+                "image": "assets/images/20.jpg",
+                "description": "Jean Coat Cost: 50$ Type:Sport Jeans Cost: 80$ Type:cotton & jean Black Hat Coast: 35$."
+            },
+            {
+                "id": 3,
+                "fashionId": 0,
+                "name": "Dark Gray Suit",
+                "image": "assets/images/4.jpg",
+                "description": "Dark Gray Suit Cost: 500$ Material:Cotton,Polyster Type:Classic suit."
+            },
+              {
+                  "id": 4,
+                  "fashionId": 0,
+                  "name": "Women Street Style",
+                  "image": "assets/images/15.jpg",
+                  "description": "Shirt Cost: 40$ Type:Fashion Skirt Cost: 89$ Type:cotton CrossBody Bag Coast: 75$ Type:Fashion Cross Body Chain."
+              },
+              {
+                  "id": 5,
+                  "fashionId": 0,
+                  "name": "Red Fancy Dress",
+                  "image": "assets/images/19.jpg",
+                  "description": "Dress Cost: 190$ Material:Polyster Type:Fashion long Dress."
+              }
+            ],
+    "modes" : [
+            {    
+                "id": 0,
+                "fashionId": 0,
+                "rating": 5,
+                "text": "How Looks Like the Gray Blazer",
+                "author": "Gray Blazer",
+                "image": "/assets/images/1.jpg",
+                "featured": false,
+                "date": "2019-11-34S7:8z",
+                "description": "Cost: 86$ Material:Cotton,Polyester Gender:Unisex Kids Boys Girls Pattern Type:Plaid Collar:Turn-down Collar Sleeve Style:Long Sleeve Outerwear Type:Blazer Coat."
+            },
+            {
+              "id": 1,
+              "fashionId": 0,
+              "rating": 4,
+              "text": "Do you think, how much is fancy dress looks good?",
+              "author": "Fancy Dress",
+              "image": "/assets/images/2.jpg",
+              "featured": false,
+              "date": "2018-12-23k3:7h",
+              "description": "Cost: 141$ Material:Polyester Gender:Girls child Style:Princess Prom Type:Fancy Dress."
+            },
+            {
+                "id": 2,
+                "fashionId": 0,
+                "rating": 5,
+                "text": "Street style is intersting and pretty",
+                "author": "Men Street Style",
+                "date": "2019-04-54l7:9",
+                "image": "/assets/images/20.jpg",
+                "featured": false,
+                "description": "Jean Coat Cost: 50$ Type:Sport Jeans Cost: 80$ Type:cotton & jean Black Hat Coast: 35$."
+            },
+            {
+                "id": 3,
+                "fashionId": 0,
+                "rating": 4,
+                "text": "How Looks Like the Dark Gray Suit",
+                "author": "Dark Gray Suit",
+                "date": "2019-08-59u7:6y",
+                "image": "/assets/images/4.jpg",
+                "featured": false,
+                "description": "Dark Gray Suit Cost: 500$ Material:Cotton,Polyster Type:Classic suit."
+            },
+              {
+                "id": 4,
+                "fashionId": 0,
+                "rating": 4,
+                "text": "How Look women with street style",
+                "author": "Women Street Style",
+                "date": "2017-03-51u7:4l",
+                "image": "/assets/images/15.jpg",
+                "featured": false,
+                "description": "Shirt Cost: 40$ Type:Fashion Skirt Cost: 89$ Type:cotton CrossBody Bag Coast: 75$ Type:Fashion Cross Body Chain."
+              },
+              {
+                "id": 5,
+                "fashionId": 0,
+                "rating": 3,
+                "text": "Red fancy dress is the best",
+                "author": "Red Fancy Dress",
+                "date": "2019-03-58u8:3l",
+                "image": "/assets/images/19.jpg",
+                "featured": true,
+                "description": "Dress Cost: 190$ Material:Polyster Type:Fashion long Dress."
+               } 
+    ]        
+}
